@@ -4,6 +4,7 @@ A [friend of mine](http://www.thefreshburst.com/) gave me the idea that I should
 
 Three sheets to the wind!
 
+- [Day 08](08.md)
 - [Day 07](07.md)
 - [Day 06](06.md)
 - [Day 06](06.md)
