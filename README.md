@@ -4,6 +4,7 @@ A [friend of mine](http://www.thefreshburst.com/) gave me the idea that I should
 
 Three sheets to the wind!
 
+- [Day 17](17.md)
 - [Day 16](16.md)
 - [Day 15](15.md)
 - [Day 14](14.md)
