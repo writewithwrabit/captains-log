@@ -4,6 +4,7 @@ A [friend of mine](http://www.thefreshburst.com/) gave me the idea that I should
 
 Three sheets to the wind!
 
+- [Day 20](20.md)
 - [Day 19](19.md)
 - [Day 18](18.md)
 - [Day 17](17.md)
