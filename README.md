@@ -4,6 +4,7 @@ A [friend of mine](http://www.thefreshburst.com/) gave me the idea that I should
 
 Three sheets to the wind!
 
+- [Day 31](31.md)
 - [Day 30](30.md)
 - [Day 29](29.md)
 - [Day 28](28.md)
